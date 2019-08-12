@@ -1,0 +1,8 @@
+.DS_Store
+*.class
+*.metadata
+*.recommenders
+*.project
+*.classpath
+/swing/TP_Java_Swing/bin/
+/swing/TP_Java_Swing/.settings/
